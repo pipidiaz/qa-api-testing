@@ -30,3 +30,13 @@ Se realizaron pruebas sobre los siguientes endpoints:
 
 ## 🚀 Objetivo
 Simular una experiencia real de testing de APIs aplicando buenas prácticas QA.
+
+---
+
+## 🔗 Proyecto relacionado
+
+También realicé pruebas sobre una aplicación e-commerce:
+
+👉 https://github.com/pipidiaz/qa-ecommerce-testing
+
+Incluye validación de flujos de compra, casos de prueba y reporte de bugs.
